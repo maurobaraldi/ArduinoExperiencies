@@ -1,0 +1,4 @@
+date;hour;kind;water;soil;volts;raw;comment
+26/10/20224;20:00;air;0;100g;2.46;764;
+26/10/20224;20:00;soil;0;100g;1.67;518;
+26/10/20224;20:25;soil;0;95g;1.42;441;dried at microwave
